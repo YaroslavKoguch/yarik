@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">koguch</string>
+    <string name="taxi_request">Замовлення таксі</string>
+    <string name="location">Розташування</string>
+    <string name="duration">Тривалість</string>
+    <string name="abonement_type">Тип абонементу</string>
+    <string name="price">Ціна замовлення</string>
+    <string name="order">Замовити</string>
+</resources>
